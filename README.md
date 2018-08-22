@@ -1,11 +1,11 @@
 # Face-Detection
 
-![image](https://img.shields.io/badge/Android-Custom%20Alert%20Dialog-brightgreen.svg)
+![image](https://img.shields.io/badge/Android-Facial%20Detection-brightgreen.svg)
 
 ## ScreenShot
-![image](https://github.com/MuhammadZohair/CustomAlertDialog/blob/master/Final_screenshot.gif)
+![image](https://github.com/MuhammadZohair/Face-Detection/blob/master/Screenshot.gif)
 
-[Demo Download](https://github.com/MuhammadZohair/CustomAlertDialog/raw/master/CustomAlertDialog)
+[Demo Download](https://github.com/MuhammadZohair/Face-Detection/blob/master/Face%20Detection.apk)
 
 ## License
 

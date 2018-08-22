@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Face Detection</string>
+    <string name="press_to_detect_faces">Press to Detect Faces</string>
+    <string name="todo">TODO</string>
+    <string name="preloaded_images">Use Detection on Pre Loaded Images</string>
+    <string name="custom_images">Load Image from Gallery</string>
+    <string name="select_image">Click on image to select image from gallery</string>
+    <string name="detect_faces">Detect Faces</string>
+    <string name="number_of_faces">Number of Faces:</string>
+
+    <string-array name="pictures_name">
+        <item>picture</item>
+        <item>picture1</item>
+        <item>picture2</item>
+        <item>picture3</item>
+        <item>picture4</item>
+        <item>picture5</item>
+        <item>picture6</item>
+        <item>picture7</item>
+        <item>picture8</item>
+    </string-array>
+
+</resources>
